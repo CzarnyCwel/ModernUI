@@ -1,0 +1,30 @@
+## ModernUI
+Feel free to edit and use this plugin
+I never finished this plugin and it may have a lot of bugs. Im not going to fix them. - The files are a mess🗑️
+
+## Installation
+ - Download the folder as a .zip or .rar
+ - Place inside of your plugins folder
+ 
+## Requirements
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2517719563 (This is my old server package)
+    #I recommend you extract this addon and make your own package if you know how to do it.
+    #But if not then you can use my content pack.
+
+## WARNING - KNOWN BUG 
+Not all functions work properly because I have never finished this plugin.
+I recommend that you delete the following files:
+    #plugins > ix_modern_ui > derma
+    - cl_charcreate.lua
+    - cl_charload.LUA
+    - cl_deathscreen.lua
+    - cl_bar.lua* (I dont remember if I changed anything there)
+    - cl_shipment.lua*/cl_storage.lua* (Apparently, when you have full inventory and you pull out items, the UI breaks)
+(But you can leave them if you want - the plugin will still work. Or you can repair them by yourself) 
+
+
+## BASIC CONFIGURATION 
+    -Editing: Background, UserGroup, Player avatar/name  #cl_menu.lua (line: 463-551)
+
+
+Have fun - Jebać kaktusownie 😂
